@@ -1,0 +1,8 @@
+stramlit
+langchain
+langchain_openai
+openai
+wikipedia
+chromadb
+tiktoken
+python-dotenv
